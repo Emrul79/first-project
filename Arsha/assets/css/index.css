@@ -47,6 +47,13 @@
 .myswiper p{
     font-size: 20px !important;
 }
+.all_products{
+    width: 300px;
+    
+    margin: 0 auto;
+   
+}
+
 }
 .product_description img{
     border-top-left-radius: 15px;
@@ -57,3 +64,4 @@
     width: 250px;
    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
 }
+
