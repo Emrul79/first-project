@@ -55,12 +55,24 @@
     padding:10px 30px;
 }
 @media  screen and (max-width:500px) {
+    .first_heading h1{
+        font-size: 35px !important;
+        line-height: 50px !important;
+    }
     .myswiper img{
     width: 220px;
 
 }
 .myswiper p{
     font-size: 20px !important;
+}
+.whoWe{
+    display: flex;
+    justify-content: center;
+    
+}
+.whoWe img{
+    width: 360px;
 }
 .all_products{
     width: 300px;
